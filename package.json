@@ -52,7 +52,6 @@
   "scripts": {
     "build": "docusaurus build",
     "build:en": "docusaurus build --locale en",
-    "build:ptbr": "docusaurus build --locale pt-BR",
     "deploy": "docusaurus deploy",
     "docusaurus": "docusaurus",
     "i18n": "yarn write-translations --locale en",
