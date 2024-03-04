@@ -1,6 +1,6 @@
 ---
 id: learning-path-react
-title: 'Learning Path: React'
+title: 'Learning Path'
 tags:
   - react
   - javascript
