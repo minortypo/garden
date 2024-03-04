@@ -4,14 +4,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const math = require('remark-math');
 const katex = require('rehype-katex');
 
-const locales = ['pt-BR', 'en'];
+const locales = ['en'];
 
 const localeConfigs = {
   en: {
     label: 'English',
-  },
-  'pt-BR': {
-    label: 'Português',
   },
 };
 
