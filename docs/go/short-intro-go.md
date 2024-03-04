@@ -1,6 +1,6 @@
 ---
 id: short-intro
-title: Go
+title: Intro
 tags:
   - Go
   - notes

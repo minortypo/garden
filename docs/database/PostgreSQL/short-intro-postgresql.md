@@ -1,6 +1,6 @@
 ---
 id: short-intro-postgresql
-title: PostgreSQL
+title: Intro
 tags:
   - postgresql
   - content
