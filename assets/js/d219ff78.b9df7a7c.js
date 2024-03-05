@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[2669],{9247:e=>{e.exports=JSON.parse('{"label":"pt-br","permalink":"/garden/docs/tags/pt-br","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"math/test","title":"Test","description":"- Test","permalink":"/garden/docs/math/test"}]}')}}]);

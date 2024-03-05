@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[1533],{5537:e=>{e.exports=JSON.parse('{"label":"arithmetic-mean","permalink":"/garden/docs/tags/arithmetic-mean","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"math/test","title":"Test","description":"- Test","permalink":"/garden/docs/math/test"}]}')}}]);

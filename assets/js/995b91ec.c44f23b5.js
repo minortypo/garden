@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[565],{1734:e=>{e.exports=JSON.parse('{"label":"tools","permalink":"/garden/docs/tags/tools","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"setup","title":"Setup","description":"Gears","permalink":"/garden/docs/setup"}]}')}}]);

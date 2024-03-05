@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[1725],{7607:e=>{e.exports=JSON.parse('{"label":"life hacks","permalink":"/garden/docs/tags/life-hacks","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"life-hacks","title":"Life Hacks","description":"- Git Aliases","permalink":"/garden/docs/life-hacks"}]}')}}]);

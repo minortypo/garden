@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[4806],{8193:e=>{e.exports=JSON.parse('{"label":"media-artmetica","permalink":"/garden/docs/tags/media-artmetica","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"math/test","title":"Test","description":"- Test","permalink":"/garden/docs/math/test"}]}')}}]);

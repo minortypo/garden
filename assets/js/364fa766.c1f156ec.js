@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[1747],{6526:e=>{e.exports=JSON.parse('{"label":"nosql","permalink":"/garden/docs/tags/nosql","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"database/mongoDB/test-1","title":"Test 1","description":"Test","permalink":"/garden/docs/database/mongoDB/test-1"}]}')}}]);

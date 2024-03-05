@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgarden=self.webpackChunkgarden||[]).push([[8084],{4969:a=>{a.exports=JSON.parse('{"label":"sicp","permalink":"/garden/docs/tags/sicp","allTagsPath":"/garden/docs/tags","count":1,"items":[{"id":"cs/programming","title":"Programming","description":"SICP:","permalink":"/garden/docs/cs/programming"}]}')}}]);
