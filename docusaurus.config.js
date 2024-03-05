@@ -20,7 +20,7 @@ module.exports = {
   },
   title: 'g.arden',
   tagline: `where I keep everything I study and learn`,
-  url: 'https://minortypo.github.io', //wip
+  url: 'https://garden.github.io', //wip
   baseUrl: '/garden/',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icons/favicon.png',
