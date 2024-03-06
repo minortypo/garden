@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
 g.arden ⛰️🏛️🏞️
 </h1>
